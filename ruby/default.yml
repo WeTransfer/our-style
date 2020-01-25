@@ -136,8 +136,6 @@ Layout/TrailingEmptyLines:
   Enabled: True
 Layout/TrailingWhitespace:
   Enabled: True
-Lint/AmbiguousBlockAssociation:
-  Enabled: True
 Lint/AmbiguousRegexpLiteral:
   Enabled: True
 Lint/BooleanSymbol:
